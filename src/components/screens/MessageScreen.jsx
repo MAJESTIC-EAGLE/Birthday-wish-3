@@ -27,8 +27,8 @@ export default function MessageScreen() {
                 <div className={`cover ${opened ? "opacity-0" : "opacity-100"} pointer-events-none z-10 bg-[#ffedea]!`} />
 
                 <div className="relative px-6 h-56 overflow-y-auto text-foreground">
-                    Happy Birthday, Cutiepie! You deserve all the happiness, love, and smiles in the world today and always. On the special day of yours,I hope today  your day will be filled with laughter, surprises, and moments that make you happy. You’re truly one of a kind, and I just want to let you  know that how special you are for me :> Keep being the demonic person you are,jk spreading joy wherever you go. Wishing you  a great happiness, success, and all the wanted things life has to offer. 💗
-                    and at last thank you f4r having me :D PEACE!
+                    Happy Birthday, Cutiepie! You deserve all the happiness, love, and smiles in the world today and always. On the special day of yours,I hope today  your day will be filled with laughter, surprises, and moments that make you happy. You’re truly one of a kind, and I just want to let you  know that how special you are for me :> keep being the demonic person you are,jk spreading joy wherever you go. Wishing you  a great happiness, success, and all the wanted things life has to offer. 💗
+                    and at last thank you f4r having me :5 PEACE!
                 </div>
             </div>
         </div>
