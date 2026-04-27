@@ -28,7 +28,7 @@ export default function MessageScreen() {
 
                 <div className="relative px-6 h-56 overflow-y-auto text-foreground">
                     Happy Birthday, Cutiepie! You deserve all the happiness, love, and smiles in the world today and always. On the special day of yours,I hope today  your day will be filled with laughter, surprises, and moments that make you happy. You’re truly one of a kind, and I just want to let you  know that how special you are for me :> Keep being the demonic person you are,jk spreading joy wherever you go. Wishing you  a great happiness, success, and all the wanted things life has to offer. 💗
-                    and at last thank you for having me :4 PEACE!
+                    and at last thank you f4r having me :4 PEACE!
                 </div>
             </div>
         </div>
